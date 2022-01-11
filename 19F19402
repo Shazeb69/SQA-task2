@@ -19,7 +19,7 @@ Else
 10.	If new stock comes in wholesale offer price 
 11.	Then print(“sell in discounted price”);
 Else
-12.	print(“Sell wholesale price”);
+12.	print(“sell wholesale price”);
 13.	end if
 };
 14.	End if
